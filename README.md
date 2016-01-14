@@ -1,4 +1,4 @@
-# GrandRio-Test
+# Adamas
 $ mvn site
 ```
 
