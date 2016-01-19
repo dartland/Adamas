@@ -2,5 +2,8 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/st/selenium/applogic2/ApplicationManager2.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/ru/st/selenium/AddNewUser.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/ru/st/selenium/pages/TestBase.java" charset="windows-1251" />
   </component>
 </project>
