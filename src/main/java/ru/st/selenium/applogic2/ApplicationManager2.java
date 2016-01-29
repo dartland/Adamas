@@ -31,6 +31,8 @@ public class ApplicationManager2 implements ApplicationManager {
 
 		driver = WebDriverFactory.getInstance(gridHubUrl, browser, username, password);
 		// driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		//цлс тут расширить окно.
+		driver.manage().window().maximize();
 
 		userHelper = new UserHelper2(this);
 		navHelper = new NavigationHelper2(this);
